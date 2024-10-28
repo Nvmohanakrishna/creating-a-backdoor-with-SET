@@ -58,7 +58,8 @@ In windows IE, on giving the url http://192.168.29.175, the fake Google page is 
 
 SET logs the information regarding the Google credentials:
 
-![Uploading image.png…]()
+<img width="853" alt="image" src="https://github.com/user-attachments/assets/c7c244d8-5aac-4167-95af-8761229f3d94">
+
 
 
 
