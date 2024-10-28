@@ -52,7 +52,7 @@ SET starts my Kali Linux Webserver on port 80, with the fake Google account logi
 
 <img width="742" alt="image" src="https://github.com/user-attachments/assets/3d5a4b62-f5d4-433c-a914-5dd27f215ed3">
 
-In windows IE, on giving the url http://192.168.43.135, the fake Google page is displayed. The victim can enter the username and password:
+In windows IE, on giving the url http://192.168.29.175, the fake Google page is displayed. The victim can enter the username and password:
 
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/f74e550c-4ec8-4061-8152-5097aa8fd9b4">
 
