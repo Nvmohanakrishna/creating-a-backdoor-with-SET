@@ -21,8 +21,10 @@ Open terminal and try execute some kali linux commands
 
 ## EXECUTION STEPS AND ITS OUTPUT:
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers. 
-The command sudo setoolkit in the prompt gives menu with set prompt:
-
+The command sudo setoolkit in the prompt gives menu with set prompt.
+## NAME:N V MOHANA KRISHNA
+## REG NO:212224100039
+## OUTPUT:
 <img width="755" alt="image" src="https://github.com/user-attachments/assets/17e1686e-8774-4db4-8fb6-7a0575a01321">
 
 
